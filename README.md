@@ -1,5 +1,5 @@
 # Blackjack
 
-Reproduction du jeu du Blackjack HTML CSS JavaScript Jquery
+Jeu du Blackjack avec HTML CSS JavaScript Jquery
 
 https://fr.wikipedia.org/wiki/Blackjack_(jeu)
